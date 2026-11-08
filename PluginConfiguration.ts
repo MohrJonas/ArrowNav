@@ -1,5 +1,3 @@
 export default class PluginConfiguration {
-    public constructor(readonly selectionMargin: number) {
-
-    }
+  public constructor(readonly selectionMargin: number) {}
 }
